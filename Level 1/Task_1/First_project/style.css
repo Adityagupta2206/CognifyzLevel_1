@@ -1,0 +1,33 @@
+
+body {
+  font-family: 'Times New Roman', Times, serif;
+  margin: 0;
+  padding: 0;
+  background-color: #135D66;
+}
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #E3FEF7;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-top: 50px;
+}
+h1 {
+  color: #481E14;
+  text-align: center;
+}
+p {
+  color: rgba(0, 0, 0, 0.6);
+  line-height: 1.6;
+  font-family: cursive;
+  font-weight:bold;
+}
+img {
+  display: block;
+  margin: 15px auto;
+  margin-top: 50px;
+  max-width: 120%;
+  height: 400px;
+}
